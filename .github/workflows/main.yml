@@ -1,4 +1,4 @@
-name: CI
+name: Generate Snake
 
 on:
   push:
