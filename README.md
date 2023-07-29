@@ -11,6 +11,6 @@
   <img alt="MySQL" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img alt="MongoDB" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
   <img alt="Redis" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg"> <br/>
-  <img height"100em" src="https://github-readme-streak-stats.herokuapp.com?user=Yuhtin&theme=gruvbox&hide_border=true&date_format=j%20M%5B%20Y%5D&background=FFFFFF00&dates=54FFDE" alt="streak"><br/>
+  <img height"100em" src="https://github-readme-streak-stats.herokuapp.com?user=eliaszavan&theme=gruvbox&hide_border=true&date_format=j%20M%5B%20Y%5D&background=FFFFFF00&dates=54FFDE" alt="streak"><br/>
   <img src="https://github.com/eliaszavan/eliaszavan/blob/output/github-contribution-grid-snake.svg" alt="commit-snake">
 </p>  
