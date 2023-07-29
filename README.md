@@ -1,5 +1,4 @@
 <p align="center">
-  <img src="https://lanyard.cnrad.dev/api/272879983326658570"> <br/><br/>
   <img alt="Java" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img alt="Spring" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">    
   <img alt="Dart" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">  
