@@ -17,7 +17,7 @@
 
 - I’m looking to collaborate on **Web Development projects**.
 
-- Some of my projects are available [here](https://eliaszavan-portfolio.vercel.app/).
+- Some of my projects are available [here](https://eliaszavan.site/).
 
 - How to reach me **eliaszavan@gmail.com**
 
