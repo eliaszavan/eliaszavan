@@ -28,13 +28,7 @@
 </p>
 <br>
 
-<div display="flex">
-  <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=eliaszavan&show_icons=true&theme=dark&locale=en&layout=compact" alt="eliaszavan" /></p>
-  <div align="center">
-    <span>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eliaszavan&show_icons=true&theme=dark&locale=en" alt="eliaszavan" /></span>
-    <span><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eliaszavan&theme=dark" alt="eliaszavan" /></span>
-  </div>
-</div>
-
+| ![Elias Stats Profile](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=eliaszavan&theme=dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eliaszavan&theme=dark) |
+| :-: | :-: |
 
 
