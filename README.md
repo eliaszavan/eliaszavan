@@ -5,14 +5,14 @@
   <img alt="Spring" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/spring/spring-original.svg">
   <img alt="CSS3" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img alt="HTML5" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <br>
+  <br><br>
   <img alt="MySQL" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img alt="MongoDB" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
   <img alt="Redis" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg"> <br/>
 </p>
 
 
-<h1 align="center">Hello, I'm Elias Zavan</h1>
+<h1 align="center">Hello, I'm Elias Zavan and I'm 16 years old</h1>
 <h3 align="center">Junior Web Developer from Brazil</h3>
 
 - I’m looking to collaborate on **Web Development projects**.
